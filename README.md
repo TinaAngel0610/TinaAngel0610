@@ -1,4 +1,4 @@
-![0](https://github.com/TinaAngel0610/TinaAngel0610/blob/main/Capybara.gif)
+![0](https://github.com/TinaAngel0610/TinaAngel0610/blob/main/Capy.gif)
 # Hi :wave:, I'am MinhTrang :four_leaf_clover:
 
 ### :sparkler: About Me
