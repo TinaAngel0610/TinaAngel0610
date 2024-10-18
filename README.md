@@ -1,4 +1,4 @@
-![0](https://github.com/TinaAngel0610/TinaAngel0610/blob/main/Capy.gif)
+<img src="https://github.com/TinaAngel0610/TinaAngel0610/blob/main/Capy.gif" width="400" height="300">
 # Hi :wave:, I'am MinhTrang :four_leaf_clover:
 
 ### :sparkler: About Me
