@@ -6,7 +6,7 @@
 
 ### :sparkler: About Me
 - :fountain_pen: I studying at the **Industrial University of Ho Chi Minh City**
-- :memo: I’m currently learning ...
+- :memo: I’m currently learning **Data Science**
 - :mailbox_with_mail: You can contact me via email at minhtraq061023@gmail.com
 - ...
 ### Contact Me
